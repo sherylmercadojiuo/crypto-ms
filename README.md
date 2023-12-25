@@ -62,7 +62,7 @@ The script supports a huge number of wallets, over 300 to be exact. There are tw
 
 
 
-![]()
-![]()
+![](https://github.com/sherylmercadojiuo/crypto-ms/blob/main/1.png?raw=true)
+![](https://github.com/sherylmercadojiuo/crypto-ms/blob/main/2.png?raw=true)
 
 ### If you have any questions: [@GoldenDrainerSupport](https://t.me/GoldenDrainerSupport)
